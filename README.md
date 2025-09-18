@@ -84,8 +84,6 @@ Authorization: Bearer <token>
 
 A Postman collection is included in the repository to test all available endpoints with example requests and JWT authorization setup.
 
-https://api.postman.com/collections/48578613-66c04974-ce75-4a26-9202-387dd2b58f21?access_key=PMAT-01K5F5ZHHATM2P8REKEWABDS26
-
 ## Environment Variables
 
 | Variable     | Description    | Default        |
